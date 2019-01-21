@@ -102,7 +102,7 @@ resources: {}
 mongodb:
   ## Whether to deploy a mongodb server to satisfy the applications database requirements.
   ## To use an external database set this to false and configure the externaldb parameters
-  install: true # Check mongodb chart for configuration values
+  install: false # Check mongodb chart for configuration values
   ## MongoDB custom user and database
   ## ref: https://github.com/bitnami/bitnami-docker-mongodb/blob/master/README.md#creating-a-user-and-database-on-first-run
   ##
