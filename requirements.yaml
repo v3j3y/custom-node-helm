@@ -1,4 +1,1 @@
 dependencies:
-- name: bitnami-common
-  repository: https://charts.bitnami.com/bitnami
-  version: 0.x.x
